@@ -1,0 +1,123 @@
+﻿#,Date,# of Hours Worked,Activity Description (Choose from Drop-Down List for Hours Worked),# of Hours Sick,# of Hours Annual Leave,Charge to Project / Service,Notes
+2,1-Sep-21,3,Other,,,INSPIRES,INSPIRES hashtag research
+3,1-Sep-21,2,Other,,,GIZ,"GIZ preparation, meeting, and reviewing contacts/tasks"
+4,3-Sep-21,1,Other,,,INSPIRES,INSPIRES arrest hand-coding
+5,4-Sep-21,6,Other,,,INSPIRES,INSPIRES arrest hand-coding
+6,5-Sep-21,2,Other,,,INSPIRES,"INSPIRES arrest hand-coding, keyword review"
+7,6-Sep-21,7,Other,,,INSPIRES,"INSPIRES arrest review, keyword review"
+8,8-Sep-21,3,Other,,,GIZ,GIZ contact extraction/pruning/search
+9,10-Sep-21,2,Other,,,GIZ,GIZ contact extraction/pruning/search
+10,11-Sep-21,2,Other,,,GIZ,GIZ contact extraction/pruning/search
+11,13-Sep-21,6,Other,,,INSPIRES,INSPIRES machine learning model testing
+12,13-Sep-21,2,Other,,,GIZ,GIZ contact extraction/pruning/search
+13,14-Sep-21,2,Other,,,GIZ,"GIZ contact extraction/pruning/search, mailings"
+14,15-Sep-21,1,Other,,,INSPIRES,INSPIRES keyword testing
+15,17-Sep-21,6,Other,,,GIZ,GIZ survey work
+16,17-Sep-21,2,Other,,,GIZ,GIZ-related mailings
+17,20-Sep-21,3,Other,,,INSPIRES,INSPIRES keyword to SQL transliteration
+18,20-Sep-21,5,Other,,,INSPIRES,"INSPIRES PCA, linear regression, kNN testing"
+19,20-Sep-21,1,Other,,,GIZ,GIZ survey work
+20,21-Sep-21,3,Other,,,GIZ,GIZ survey work and CRM contact entering
+21,22-Sep-21,5,Other,,,GIZ,"GIZ survey finalization, descriptions for employee, CRM group and mailing definition"
+22,23-Sep-21,3,Other,,,INSPIRES,INSPIRES report
+23,23-Sep-21,4,Other,,,INSPIRES,INSPIRES kw testing (DBeaver)
+24,23-Sep-21,2,Other,,,GIZ,"GIZ survey refinalization, mailing setup"
+25,24-Sep-21,2,Other,,,INSPIRES,INSPIRES report
+26,26-Sep-21,3,Other,,,GIZ,"GIZ finding phone numbers, searching for valid emails"
+27,27-Sep-21,3,Other,,,GIZ,"GIZ survey monitoring, problem-solving, finding valid contacts"
+28,27-Sep-21,4,Other,,,INSPIRES,"INSPIRES report, kw testing (DBeaver)"
+29,28-Sep-21,7,Other,,,INSPIRES,"INSPIRES report, kw testing and improvements (DBeaver), analysis and graphs"
+30,28-Sep-21,3,Other,,,GIZ,"GIZ survey monitoring, problem-solving, Q&A"
+31,29-Sep-21,4,Other,,,INSPIRES,INSPIRES report
+32,29-Sep-21,2,Other,,,GIZ,"GIZ problem-solving, survey monitoring"
+33,30-Sep-21,1,Other,,,INSPIRES,INSPIRES report writing and graphs (small GIZ work incl)
+34,,,,,,,
+35,,,,,,,
+36,,,,,,,
+37,,,,,,,
+38,,,,,,,
+39,,,,,,,
+40,,,,,,,
+41,,,,,,,
+42,,,,,,,
+43,,,,,,,
+44,,,,,,,
+45,,,,,,,
+46,,,,,,,
+47,,,,,,,
+48,,,,,,,
+49,,,,,,,
+50,,,,,,,
+51,,,,,,,
+52,,,,,,,
+53,,,,,,,
+54,,,,,,,
+55,,,,,,,
+56,,,,,,,
+57,,,,,,,
+58,,,,,,,
+59,,,,,,,
+60,,,,,,,
+61,,,,,,,
+62,,,,,,,
+63,,,,,,,
+64,,,,,,,
+65,,,,,,,
+66,,,,,,,
+67,,,,,,,
+68,,,,,,,
+69,,,,,,,
+70,,,,,,,
+71,,,,,,,
+72,,,,,,,
+73,,,,,,,
+74,,,,,,,
+75,,,,,,,
+76,,,,,,,
+77,,,,,,,
+78,,,,,,,
+79,,,,,,,
+80,,,,,,,
+81,,,,,,,
+82,,,,,,,
+83,,,,,,,
+84,,,,,,,
+85,,,,,,,
+86,,,,,,,
+87,,,,,,,
+88,,,,,,,
+89,,,,,,,
+90,,,,,,,
+91,,,,,,,
+92,,,,,,,
+93,,,,,,,
+94,,,,,,,
+95,,,,,,,
+96,,,,,,,
+97,,,,,,,
+98,,,,,,,
+99,,,,,,,
+100,,,,,,,
+101,,,,,,,
+102,,,,,,,
+103,,,,,,,
+104,,,,,,,
+105,,,,,,,
+106,,,,,,,
+107,,,,,,,
+108,,,,,,,
+109,,,,,,,
+110,,,,,,,
+111,,,,,,,
+112,,,,,,,
+113,,,,,,,
+114,,,,,,,
+115,,,,,,,
+116,,,,,,,
+117,,,,,,,
+118,,,,,,,
+119,,,,,,,
+120,,,,,,,
+121,,,,,,,
+122,,,,,,,
+123,,,,,,,
